@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_DISKON Mandiri 9.9_anticon icon-closecirc_d7b546</name>
+   <tag></tag>
+   <elementGuidId>fd8d40e5-649a-4bec-8e45-fbf2d42de836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.icon-closecircle.font-size-xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>11fc0c74-7bc7-478a-8c09-97d30e2a8c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anticon icon-closecircle font-size-xl</value>
+      <webElementGuid>9c2c1bb8-b89c-4bfe-acc4-820e9bdecbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;fixed-floating-voucher active&quot;]/div[@class=&quot;floating-voucher-content syarat&quot;]/button[@class=&quot;btn close&quot;]/i[@class=&quot;anticon icon-closecircle font-size-xl&quot;]</value>
+      <webElementGuid>c2c83271-1147-4044-b7c6-3ac297702fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/button/i</value>
+      <webElementGuid>42cc0bae-7676-41a2-b4c3-0cb030f767c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>adad015e-b79a-4313-a2a7-f14031519564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

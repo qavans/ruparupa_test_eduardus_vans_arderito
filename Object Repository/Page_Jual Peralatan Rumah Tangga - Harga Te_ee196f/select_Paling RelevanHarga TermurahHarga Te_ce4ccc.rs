@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Paling RelevanHarga TermurahHarga Te_ce4ccc</name>
+   <tag></tag>
+   <elementGuidId>624f3288-5b05-404f-8d3b-0ce151e08a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='order']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;order&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4c301cd9-eb6b-417f-8dcc-d08edaf65f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>order</value>
+      <webElementGuid>55f7b4a3-70d8-40bb-bc17-13bc72ce03e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paling RelevanHarga TermurahHarga TermahalProduk TerbaruDiskon TertinggiDiskon TerendahUlasan TerbanyakRating Tertinggi</value>
+      <webElementGuid>8021b0e3-eada-4b75-9531-140b9ebaecbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-category-list&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4 left-content&quot;]/div[@class=&quot;sort-pcp card-container-shadow-medium margin-bottom-s&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;form-m select&quot;]/select[1]</value>
+      <webElementGuid>848ee088-f23f-45de-ad91-25354ad8372e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='order']</value>
+      <webElementGuid>6988ce9f-73f7-4542-b308-b1aa61e02339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='product-category-list']/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>eeefa793-7cf2-44c5-a840-ad0b6b3e3c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urut Berdasarkan'])[1]/following::select[1]</value>
+      <webElementGuid>49a7f9bf-ca2d-43dd-8498-0081b600ceb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Tangga'])[3]/following::select[1]</value>
+      <webElementGuid>0d1ae0a7-3a4d-4fd0-ad22-40844f2858fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::select[1]</value>
+      <webElementGuid>a787a297-f892-4780-b964-b7418339541c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/preceding::select[1]</value>
+      <webElementGuid>4b005716-67c4-4f18-9c9e-2e580da1b462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>74d1c38d-2f45-4546-908d-09be1b958fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'order' and (text() = 'Paling RelevanHarga TermurahHarga TermahalProduk TerbaruDiskon TertinggiDiskon TerendahUlasan TerbanyakRating Tertinggi' or . = 'Paling RelevanHarga TermurahHarga TermahalProduk TerbaruDiskon TertinggiDiskon TerendahUlasan TerbanyakRating Tertinggi')]</value>
+      <webElementGuid>b21d6443-a09a-4d67-9ee7-8e17cbcd0664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
